@@ -3,7 +3,7 @@
 :root {
   --primary-color: hsl(212, 45%, 89%);
   --secondary-color: hsl(220, 15%, 55%);
-  --tertiary-color: hsl(218, 44%, 80%);
+  --tertiary-color: hsl(218, 44%, 85%);
 }
 
 * {
@@ -29,7 +29,7 @@ body {
   margin: 84px 24px;
   padding: 16px;
   text-align: center;
-  box-shadow: var(--tertiary-color) 10px 20px 50px;
+  box-shadow: var(--tertiary-color) 10px 10px 30px;
 }
 
 .qr-code img {
